@@ -1249,9 +1249,6 @@ Responsive
 		height: 600px;
 	}
 	.copyright {
-		position: fixed;
-		left: 0;
-		bottom: 0;
 		padding: 60px 15px 50px;
 		text-align: center;
 		width: 100%;
