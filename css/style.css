@@ -1249,7 +1249,7 @@ Responsive
 		height: 600px;
 	}
 	.copyright {
-		position: relative;
+		position: fixed;
 		left: 0;
 		bottom: 0;
 		padding: 60px 15px 50px;
