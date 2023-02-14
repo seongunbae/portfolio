@@ -1240,7 +1240,7 @@ Responsive
 		margin: 0;
 	}
 	.blog-post-item:last-child {
-		margin-bottom: 0;
+		margin-bottom: 45px;
 	}
 	.contact-text-warp {
 		padding-left: 0;
