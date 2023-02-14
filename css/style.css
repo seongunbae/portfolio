@@ -807,7 +807,7 @@ Blog page
  ---------------------*/
 
 .blog-page {
-	padding: 0 30px;
+	padding: 0 30px 45px;
 	background-color: #D4C9B4;
 }
 
@@ -1236,7 +1236,7 @@ Responsive
 	.portfolio-section,
 	.contact-section,
 	.elements-section {
-		padding: 0 15px;
+		padding: 0 15px 109px;
 		margin: 0;
 	}
 	.blog-post-item:last-child {
