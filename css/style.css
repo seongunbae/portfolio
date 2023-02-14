@@ -1236,7 +1236,7 @@ Responsive
 	.portfolio-section,
 	.contact-section,
 	.elements-section {
-		padding: 0 15px 109px;
+		padding: 0 15px;
 		margin: 0;
 	}
 	.blog-post-item:last-child {
@@ -1252,6 +1252,9 @@ Responsive
 		padding: 60px 15px 50px;
 		text-align: center;
 		width: 100%;
+		position:relative;
+		bottom:0;
+		left:0;
 	}
 	.nicescroll-rails.nicescroll-rails-hr,
 	#ascrail2000-hr {
