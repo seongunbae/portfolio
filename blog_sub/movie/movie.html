@@ -9,22 +9,22 @@
 				body{max-width:1280px; margin:100px auto;
 					font-family: 'Nanum Gothic', sans-serif;}
 				div video{width:100%;}
-				.btn{list-style-type:none;
+				ul{list-style-type:none;
 					position:fixed;
 					right:5%; bottom:0;}
-				.btn a{
+				ul li{
 					text-align:center;
 					padding:5px 0;
 					margin-bottom:10px;}
-				.btn a img{width:80%; opacity:100%;}
+				ul li img{width:80%; opacity:100%;}
 			</style>
 		</head>
 		<body>			
 			<div><video muted="" preload="true" loop autoplay 
 			webkit-playsinline="webkit-playsinline" playsinline="playsinline">
 			<source src="banner.mp4" type="video/mp4"></video></div>
-			<div class="btn">				
-				<a href="../../index.html" onclick="window.close()"><img src="../../img/back.png" alt="back"></a>
-			</div>
+			<ul class="btn">				
+				<li><a href="../../index.html" onclick="window.close()"><img src="../../img/back.png" alt="back"></a></li>
+			</ul>
 		</body>
 	</html>
