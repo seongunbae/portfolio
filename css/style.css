@@ -644,7 +644,7 @@ body.push-side #ascrail2000-hr {
 .profile img {
 	max-width: 80%;
 	border-radius: 40px;
-	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.4);
 }
 
 .about-info .bold{
